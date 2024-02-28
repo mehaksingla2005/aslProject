@@ -19,8 +19,8 @@ function App() {
             </button>
           </div>
         </div>
-        <div className="m-2 my-16">
-          <img src="src/div1.png" alt="downloaded image" />
+        <div className="m-2">
+          <img src="src/div1.png" alt="downloaded image" className="mx-auto w-full h-full"/>
         </div>
         <div className="flex gap-24 items-center justify-center">
           <div className="border border-1 border-gray-800 rounded-xl p-2 "></div>
