@@ -11,10 +11,10 @@ function App() {
           <div className="gap-3 flex flex-row">
             <p className="text-normal text-black flex items-center ">Product</p>
 
-            <button className="rounded-3xl border border-1 border-black px-4 py-2 text-black text-normal">
+            <button className="rounded-3xl border border-1 border-black px-4 py-2 text-black text-normal hover:bg-black hover:text-white">
               Camera
             </button>
-            <button className="rounded-3xl border border-1 border-black bg-black text-white text-normal px-4 py-2">
+            <button className="rounded-3xl border border-1 border-black hover:bg-black hover:text-white text-black text-normal px-4 py-2">
               Signs
             </button>
           </div>
