@@ -7,7 +7,7 @@ function Follow() {
   return (
     <>
       <div className="bg-orange-100 ">
-        <img src="src/Image.png" alt="image" />
+        <img src="src/Image.png" alt="image" className="mx-auto p-4"/>
         <div className="border-t border-black w-full">
           <h2>FOLLOW RTIST</h2>
           <div>
