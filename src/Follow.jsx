@@ -1,14 +1,13 @@
 import { Linkedin } from "lucide-react";
 import { Instagram } from "lucide-react";
 import { X } from "lucide-react";
-import Image from "./assets/Image.png";
+
 
 function Follow() {
   return (
     <>
       <div className="bg-orange-100 ">
-        <img src="Image" alt="Image" />
-
+        <img src="src/Image.png" alt="image" />
         <div className="border-t border-black w-full">
           <h2>FOLLOW RTIST</h2>
           <div>
